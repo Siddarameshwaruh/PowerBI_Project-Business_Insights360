@@ -2,7 +2,7 @@
 
 AtliQ Hardware's is a consumer goods electronics company having operations in various countries.
 
-## Domain : Consumer Goods          Function : Sales
+#### Domain : Consumer Goods          Function : Sales
 
 ## Problem Statement
 
