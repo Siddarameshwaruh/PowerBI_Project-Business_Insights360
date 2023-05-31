@@ -12,7 +12,7 @@ AtliQ's business is growing rapidly and they still rely on excel files for data 
 
   As a data analyst, perform the following tasks
   
-    1. Get P & L statements for any customer / product / country or aggregation over any time period.
-    2. Get forecast accuracy, net error and risk profile for product, segment, category, customer etc..
-    3. A top level dashboard for executives consolidating top insights from all dimensions of business.
+  1. Get P & L statements for any customer / product / country or aggregation over any time period.
+  2. Get forecast accuracy, net error and risk profile for product, segment, category, customer etc..
+  3. A top level dashboard for executives consolidating top insights from all dimensions of business.
     
