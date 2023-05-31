@@ -18,15 +18,15 @@ AtliQ's business is growing rapidly and they still rely on excel files for data 
 
 ## Tech Stacks : 
 
-  1. SQL
-  2. PowerBI Desktop
-  3. Excel 
-  4. Dax Language 
+- SQL
+- PowerBI Desktop
+- Excel 
+- Dax Language 
 
 ## Data Model 
 
-  1. Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model
-  2. In this project, we have followed Snowfall data modeling method
+- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model
+- In this project, we have followed Snowfall data modeling method
 
 ![2023-05-31T12_47_13](https://github.com/Siddarameshwaruh/PowerBI_Project-Business_Insights360/assets/127327782/665bd7fe-4f0c-4a6c-8043-3b439d092c0f)
   
@@ -52,35 +52,35 @@ AtliQ's business is growing rapidly and they still rely on excel files for data 
 
 ## Understanding business P & L Statements :
 
-  1. Gross price
-  2. Pre-invoice deductions
-  3. Post-Invoice deductions
-  4. Net Invoice sale
-  5. Gross Margin
-  6. Net sales
-  7. Net profit
-  8. COGC - Cost of goods sold
+- Gross price
+- Pre-invoice deductions
+- Post-Invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGS- Cost of goods sold
 
 ## PowerBI techniques Learnt :
 
-  1. What are all the questions should be asked before staring the project
-  2. Creating calculated columns
-  3. Creating measure using DAX language
-  4. Data modeling
-  5. Using Bookmarks to switch between two visuals
-  6. Page navigation with buttons
-  7. Using KPI indicators
-  8. Conditional formatting the values in visuals using icons or background color
-  9. Data validation techniques
-  10. PowerBI services
-  11. Publishing reports to PowerBI services
-  12. Setting up personal gateway to set up the auto refresh of data
-  13. Collaboration, workspace, access permissions in PowerBi services
+- What are all the questions should be asked before staring the project
+- Creating calculated columns
+- Creating measure using DAX language
+- Data modeling
+- Using Bookmarks to switch between two visuals
+- Page navigation with buttons
+- Using KPI indicators
+- Conditional formatting the values in visuals using icons or background color
+- Data validation techniques
+- PowerBI services
+- Publishing reports to PowerBI services
+- Setting up personal gateway to set up the auto refresh of data
+- Collaboration, workspace, access permissions in PowerBi services
 
 ## GitHub :
 
-  1. Uploading Large size files using GitHub LFS
-  2. Tracking the particular type of file extensions for LFS
+- Uploading Large size files using GitHub LFS
+- Tracking the particular type of file extensions for LFS
 
 
 
