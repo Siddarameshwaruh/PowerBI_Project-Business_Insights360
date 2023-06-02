@@ -64,22 +64,35 @@ AtliQ's business is growing rapidly and they still rely on excel files for data 
 ## PowerBI techniques Learnt :
 
 🔥 What are all the questions should be asked before staring the project
+ 
 🔥 Creating calculated columns
+ 
 🔥 Creating measure using DAX language
+ 
 🔥 Data modeling
+
 🔥 Using Bookmarks to switch between two visuals
+
 🔥 Page navigation with buttons
+
 🔥 Using KPI indicators
+
 🔥 Conditional formatting the values in visuals using icons or background color
+
 🔥 Data validation techniques
+
 🔥 PowerBI services
+
 🔥 Publishing reports to PowerBI services
+
 🔥 Setting up personal gateway to set up the auto refresh of data
+
 🔥 Collaboration, workspace, access permissions in PowerBi services
 
 ## GitHub :
 
 🔥 Uploading Large size files using GitHub LFS
+
 🔥 Tracking the particular type of file extensions for LFS
 
 
