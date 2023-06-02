@@ -63,7 +63,7 @@ AtliQ's business is growing rapidly and they still rely on excel files for data 
 
 ## PowerBI techniques Learnt :
 
-- What are all the questions should be asked before staring the project
+🔥 What are all the questions should be asked before staring the project
 - Creating calculated columns
 - Creating measure using DAX language
 - Data modeling
