@@ -25,8 +25,8 @@ AtliQ's business is growing rapidly and they still rely on excel files for data 
 
 ## Data Model 
 
-- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model
-- In this project, we have followed Snowfall data modeling method
+👉 Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model
+👉 In this project, we have followed Snowfall data modeling method
 
 ![2023-05-31T12_47_13](https://github.com/Siddarameshwaruh/PowerBI_Project-Business_Insights360/assets/127327782/665bd7fe-4f0c-4a6c-8043-3b439d092c0f)
   
@@ -52,35 +52,35 @@ AtliQ's business is growing rapidly and they still rely on excel files for data 
 
 ## Understanding business P & L Statements :
 
-- Gross price
-- Pre-invoice deductions
-- Post-Invoice deductions
-- Net Invoice sale
-- Gross Margin
-- Net sales
-- Net profit
-- COGS- Cost of goods sold
+👉 Gross price
+👉 Pre-invoice deductions
+👉 Post-Invoice deductions
+👉 Net Invoice sale
+👉 Gross Margin
+👉 Net sales
+👉 Net profit
+👉 COGS- Cost of goods sold
 
 ## PowerBI techniques Learnt :
 
 🔥 What are all the questions should be asked before staring the project
-- Creating calculated columns
-- Creating measure using DAX language
-- Data modeling
-- Using Bookmarks to switch between two visuals
-- Page navigation with buttons
-- Using KPI indicators
-- Conditional formatting the values in visuals using icons or background color
-- Data validation techniques
-- PowerBI services
-- Publishing reports to PowerBI services
-- Setting up personal gateway to set up the auto refresh of data
-- Collaboration, workspace, access permissions in PowerBi services
+🔥 Creating calculated columns
+🔥 Creating measure using DAX language
+🔥 Data modeling
+🔥 Using Bookmarks to switch between two visuals
+🔥 Page navigation with buttons
+🔥 Using KPI indicators
+🔥 Conditional formatting the values in visuals using icons or background color
+🔥 Data validation techniques
+🔥 PowerBI services
+🔥 Publishing reports to PowerBI services
+🔥 Setting up personal gateway to set up the auto refresh of data
+🔥 Collaboration, workspace, access permissions in PowerBi services
 
 ## GitHub :
 
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
+🔥 Uploading Large size files using GitHub LFS
+🔥 Tracking the particular type of file extensions for LFS
 
 
 
